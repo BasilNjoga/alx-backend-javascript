@@ -1,2 +1,2 @@
 
-const add = (newvalue, neighbourhood) => neighbourhood.push(newvalue);
+(newvalue, neighbourhood) => neighbourhood.push(newvalue);
