@@ -12,13 +12,14 @@
     "jest": "^29.3.1"
   },
   "name": "alx-backend-javascript",
+  "type": "module",
   "description": "This is an ALX problem set on modern javascript , ES6, arrow functions used in backend nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node main.js"
+    "dev": "node"
   },
   "repository": {
     "type": "git",

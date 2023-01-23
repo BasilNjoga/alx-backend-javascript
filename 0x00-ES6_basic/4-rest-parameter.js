@@ -1,3 +1,9 @@
 export default function returnHowManyArguments (...theArgs) {
-  return theArgs.length
+  let counter
+  for (const x of theArgs) {
+    if (x) {
+      counter++
+    }
+  }
+  return counter
 }
