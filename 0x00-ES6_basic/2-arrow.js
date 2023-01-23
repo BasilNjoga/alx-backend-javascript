@@ -1,2 +1,2 @@
 
-(newvalue, neighbourhood) => neighbourhood.push(newvalue);
+(newvalue) => push(newvalue);
