@@ -1,3 +1,3 @@
-import getSanFranciscoDescription from './6-string-interpolation.js';
+import { taskFirst, taskNext } from './0-constants.js';
 
-console.log(getSanFranciscoDescription());
+console.log(`${taskFirst()} ${taskNext()}`);
