@@ -15,7 +15,6 @@
   "description": "This is an ALX problem set on modern javascript , ES6, arrow functions used in backend nodejs",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
