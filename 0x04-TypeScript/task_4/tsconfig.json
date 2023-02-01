@@ -1,5 +1,13 @@
-
 {
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es5",
+      "allowJs": true,
+      "moduleResolution": "node"
+    },
     "name": "task_4",
     "version": "1.0.0",
     "description": "",
